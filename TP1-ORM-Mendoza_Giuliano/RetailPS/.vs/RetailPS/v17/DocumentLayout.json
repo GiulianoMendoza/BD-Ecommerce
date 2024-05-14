@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB86AF54-A765-4BD2-B49C-632BB6C01D70}|RetailPS\\RetailPS.csproj|c:\\users\\giuliano\\desktop\\tp1-orm-mendoza_giuliano\\tp1-orm-mendoza_giuliano\\retailps\\retailps\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB86AF54-A765-4BD2-B49C-632BB6C01D70}|RetailPS\\RetailPS.csproj|solutionrelative:retailps\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|c:\\users\\giuliano\\desktop\\tp1-orm-mendoza_giuliano\\tp1-orm-mendoza_giuliano\\retailps\\infraestructure\\query\\productquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\query\\productquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|c:\\users\\giuliano\\desktop\\tp1-orm-mendoza_giuliano\\tp1-orm-mendoza_giuliano\\retailps\\infraestructure\\comand\\salecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\comand\\salecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|c:\\users\\giuliano\\desktop\\tp1-orm-mendoza_giuliano\\tp1-orm-mendoza_giuliano\\retailps\\infraestructure\\query\\saleproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\query\\saleproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|c:\\users\\giuliano\\desktop\\tp1-orm-mendoza_giuliano\\tp1-orm-mendoza_giuliano\\retailps\\infraestructure\\query\\salequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\query\\salequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|c:\\users\\giuliano\\desktop\\tp1-orm-mendoza_giuliano\\tp1-orm-mendoza_giuliano\\retailps\\infraestructure\\comand\\saleproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA02F986-6ECF-490D-9900-E0B618240493}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\comand\\saleproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\RetailPS\\Menu.cs",
+              "RelativeDocumentMoniker": "RetailPS\\Menu.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\RetailPS\\Menu.cs",
+              "RelativeToolTip": "RetailPS\\Menu.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAowHUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:28:02.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Comand\\SaleProductCommand.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Comand\\SaleProductCommand.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Comand\\SaleProductCommand.cs",
+              "RelativeToolTip": "Infraestructure\\Comand\\SaleProductCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:49:47.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Comand\\SaleCommand.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Comand\\SaleCommand.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Comand\\SaleCommand.cs",
+              "RelativeToolTip": "Infraestructure\\Comand\\SaleCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:49:44.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Query\\ProductQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Query\\ProductQuery.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Query\\ProductQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Query\\ProductQuery.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:49:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Query\\SaleProductQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Query\\SaleProductQuery.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Query\\SaleProductQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Query\\SaleProductQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:49:18.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Query\\SaleQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Query\\SaleQuery.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\TP1-ORM-Mendoza_Giuliano\\TP1-ORM-Mendoza_Giuliano\\RetailPS\\Infraestructure\\Query\\SaleQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Query\\SaleQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:49:14.552Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

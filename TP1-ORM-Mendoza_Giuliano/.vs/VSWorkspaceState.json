@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RetailPS",
+    "\\RetailPS\\Domain",
+    "\\RetailPS\\Infraestructure",
+    "\\RetailPS\\Infraestructure\\Persistence",
+    "\\RetailPS\\Infraestructure\\Query"
+  ],
+  "SelectedNode": "\\RetailPS\\Infraestructure\\Query\\Class1.cs",
+  "PreviewInSolutionExplorer": false
+}

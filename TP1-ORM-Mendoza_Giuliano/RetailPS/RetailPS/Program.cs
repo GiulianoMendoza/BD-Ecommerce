@@ -1,0 +1,16 @@
+﻿using Infraestructure.Persistence;
+using Application.Interfaces;
+using Microsoft.EntityFrameworkCore;
+using Infraestructure.Query;
+using Application.Services;
+using Infraestructure.Comand;
+using RetailPS;
+AppDbContext Ventas = new AppDbContext();
+SaleProductCommand saleproductC = new SaleProductCommand(Ventas);
+SaleCommand saleC = new SaleCommand(Ventas);
+ProductQuery productQ =  new ProductQuery(Ventas);
+ProductService productS = new ProductService(productQ);
+SaleProductService saleproductS = new SaleProductService(saleproductC);
+SaleService saleS = new SaleService(saleC,productS);
+Menu elMenu = new Menu(saleS, saleproductS, productS);
+await elMenu.ShowMenu(); 
